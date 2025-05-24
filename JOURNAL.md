@@ -7,7 +7,7 @@ created_at: "2025-05-23"
 
 # May 24rd - Finding Materials
 
-I think I have all of the materials picked up and ready to go! For screen, I will use [this one on Amazon](https://www.amazon.es/Waveshare-Module-Resolution-Electronic-Raspberry/dp/B071LGVVL1/), for the module I found [this one on AliExpress](https://es.aliexpress.com/item/1005004931357085.html), for the battery, [this one on AliExpress](https://es.aliexpress.com/item/1005006578220023.html) and, finally, for the NFC module, [this one](https://es.aliexpress.com/item/1005007182056113.html). Tomorrow I'll try to get them all together and build the 3D design :D
+I think I have all of the materials picked up and ready to go! I investigated for probably too much, but I've finally got them all decided! For screen, I will use [this one on Amazon](https://www.amazon.es/Waveshare-Module-Resolution-Electronic-Raspberry/dp/B071LGVVL1/), for the module (ESP32) I found [this one on AliExpress](https://es.aliexpress.com/item/1005004931357085.html), for the battery, [this one on AliExpress](https://es.aliexpress.com/item/1005006578220023.html) and, finally, for the NFC module, [this one](https://es.aliexpress.com/item/1005007182056113.html). Tomorrow I'll try to get them all together and build the 3D design :D
 
 **Total time spent: 1.2h**
 
